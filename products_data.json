@@ -54,7 +54,7 @@
 {"id":"53","name":"Multi millet papad","price":"53","image":"https://raw.githubusercontent.com/mail2kul/assets/master/millet_papad.jpg","category":"Papad","description":"125 gm"},
 {"id":"54","name":"Bajra Papad","price":"39","image":"https://raw.githubusercontent.com/mail2kul/assets/master/bajra.jpg","category":"Papad","description":"125gm"},
 {"id":"55","name":"Jowar Papad","price":"39","image":"https://raw.githubusercontent.com/mail2kul/assets/master/jola_papad.jpg","category":"Papad","description":"125gm"},
-{"id":"56","name":"Deccan Tea powder - 500m","price":"140","image":"https://raw.githubusercontent.com/mail2kul/assets/master/tea_powder.jpg","category":"Tea","description":"Assam tea powder"},
+{"id":"56","name":"Deccan Tea powder","price":"140","image":"https://raw.githubusercontent.com/mail2kul/assets/master/tea_powder.jpg","category":"Tea","description":"Assam tea powder"},
 {"id":"57","name":"Cardmam Large","price":"78","image":"https://raw.githubusercontent.com/mail2kul/assets/master/cardmom.jpg","category":"Spices","description":"10gm"},
 {"id":"58","name":"Kashaya Powder","price":"35","image":"https://raw.githubusercontent.com/mail2kul/assets/master/kashaya.jpg","category":"Tea","description":"50gm"},
 {"id":"59","name":"Ginger Powder","price":"50","image":"https://raw.githubusercontent.com/mail2kul/assets/master/Ginger.jpg","category":"Tea","description":"100gm"},
